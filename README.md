@@ -5,7 +5,7 @@ I'm a software enthusiast and a Computer Science student at the University Of Si
 
 ## 🚀 My Work 
 - [**Code with Team**](https://github.com/mzelder/code-with-team) - An educational platform designed to teach collaborative programming and demonstrate what real work in the IT industry looks like. The platform enables students and learners to participate in team-based projects, gaining practical experience with tools like Git and working in roles such as frontend, backend, and project manager. This initiative is currently being developed as an engineering thesis project.
-- 
+
 - [**emPath**](https://github.com/mzelder/emPath) - An application developed during the "HackEmotion" hackathon organized by the University of Silesia. It helps individuals who have difficulty recognizing emotions to understand them better. The project won an innovation award and placed 4th out of 18 teams.
   
 - [**Eat IT**](https://github.com/mzelder/Eat-It) - A food ordering app that allows users to create accounts, browse restaurant menus, and place orders. Built using HTML, CSS, JavaScript, Python, Flask, and a database.
