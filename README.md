@@ -12,8 +12,8 @@ I'm a software enthusiast and a Computer Science student at the University Of Si
 
 ## 🛠️ Skills & Technologies
 
-- **Languages:** Python, JavaScript
-- **Web Development:** HTML, CSS, Flask, Django
+- **Languages:** C#, TypeScript
+- **Web Development:** HTML, CSS, MS SQL Server
 
 ## 🎓 Certificates
 
